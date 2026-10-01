@@ -1,0 +1,7 @@
+*.o
+*.bin
+*.iso
+*.log
+compile_commands.json
+isodir/boot/
+.cache/
